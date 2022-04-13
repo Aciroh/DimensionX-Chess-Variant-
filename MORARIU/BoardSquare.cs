@@ -41,10 +41,5 @@ namespace DimensionX
 
             pictureBox1.BackColor = a ? Color.Red : Color.GreenYellow;
         }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
