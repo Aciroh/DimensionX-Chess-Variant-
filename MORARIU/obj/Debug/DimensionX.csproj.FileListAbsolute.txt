@@ -1,0 +1,12 @@
+A:\Study\3rd_year\Semestrul2\Inteligenta Artificiala\Repo\DimensionX-Chess-Variant-.git\MORARIU\bin\Debug\MORARIU.exe.config
+A:\Study\3rd_year\Semestrul2\Inteligenta Artificiala\Repo\DimensionX-Chess-Variant-.git\MORARIU\bin\Debug\MORARIU.exe
+A:\Study\3rd_year\Semestrul2\Inteligenta Artificiala\Repo\DimensionX-Chess-Variant-.git\MORARIU\bin\Debug\MORARIU.pdb
+A:\Study\3rd_year\Semestrul2\Inteligenta Artificiala\Repo\DimensionX-Chess-Variant-.git\MORARIU\obj\Debug\DimensionX.csproj.AssemblyReference.cache
+A:\Study\3rd_year\Semestrul2\Inteligenta Artificiala\Repo\DimensionX-Chess-Variant-.git\MORARIU\obj\Debug\DimensionX.csproj.SuggestedBindingRedirects.cache
+A:\Study\3rd_year\Semestrul2\Inteligenta Artificiala\Repo\DimensionX-Chess-Variant-.git\MORARIU\obj\Debug\MORARIU.Properties.Resources.resources
+A:\Study\3rd_year\Semestrul2\Inteligenta Artificiala\Repo\DimensionX-Chess-Variant-.git\MORARIU\obj\Debug\DimensionX.csproj.GenerateResource.cache
+A:\Study\3rd_year\Semestrul2\Inteligenta Artificiala\Repo\DimensionX-Chess-Variant-.git\MORARIU\obj\Debug\DimensionX.csproj.CoreCompileInputs.cache
+A:\Study\3rd_year\Semestrul2\Inteligenta Artificiala\Repo\DimensionX-Chess-Variant-.git\MORARIU\obj\Debug\MORARIU.exe
+A:\Study\3rd_year\Semestrul2\Inteligenta Artificiala\Repo\DimensionX-Chess-Variant-.git\MORARIU\obj\Debug\MORARIU.pdb
+A:\Study\3rd_year\Semestrul2\Inteligenta Artificiala\Repo\DimensionX-Chess-Variant-.git\MORARIU\obj\Debug\DimensionX.BoardSquare.resources
+A:\Study\3rd_year\Semestrul2\Inteligenta Artificiala\Repo\DimensionX-Chess-Variant-.git\MORARIU\obj\Debug\DimensionX.Board.resources
